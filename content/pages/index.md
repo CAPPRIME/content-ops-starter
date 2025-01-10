@@ -10,15 +10,6 @@ sections:
     subtitle: Subtitle goes here
     text: ''
     actions:
-      - label: I wonder what this does
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
